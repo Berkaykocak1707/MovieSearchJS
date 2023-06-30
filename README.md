@@ -18,7 +18,7 @@
 ## How to Use
 
 1. Clone or download this project to your computer.
-2. Open the `index.html` file in a web browser.
+2. Open the `movie.html` file in a web browser.
 3. Obtain an access token from TMDB's API and replace `"YOUR_ACCESS_TOKEN"` in the code with your actual access token.
 4. Enter the name of a movie in the search input field.
 5. Click the search button or press enter to fetch the search results.
