@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 50px;
+}
+
+.container {
+    text-align: center;
+}
+
+#searchInput {
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+}
+
+#searchButton {
+    height: 40px;
+    margin-left: 10px;
+}
+
+#movieInfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
